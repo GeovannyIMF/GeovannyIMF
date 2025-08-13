@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Geovanny Matehuala 👋</h1>
+<h1 align="center">¡Hola! Soy Geovanny Matehuala Frias 👋</h1>
 
 
 <h4>
@@ -71,5 +71,5 @@
 <h2 align="left">Puedes encontrarme en:</h2>
 <p align="left">
 
-  • [LinkedIn](https://www.linkedin.com/in/geovanny-matehuala-frias-software-engineer/)
+  • [LinkedIn](https://www.linkedin.com/in/geovanny-matehuala-frias-data-engineer/)
 </p>
